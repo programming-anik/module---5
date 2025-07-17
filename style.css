@@ -158,3 +158,28 @@ main {
 }
 
 /* .skill-description {} */
+
+/* resume section style  */
+
+.resume-container {
+    display: flex;
+    gap: 24px;
+
+
+}
+
+.experience-description {
+    color: #757575;
+}
+
+.experience-sub-title {
+    font-size: 20px;
+    color: #757575;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+
+.resume-download-bt {
+    margin-top: 50px;
+}
